@@ -4,8 +4,8 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://twitter.com/sdtsoufian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sdtsoufian" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/soufian-sedati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soufian-sedati" height="30" width="40" /></a>
+<a href="https://twitter.com/sdtsoufian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sdtsoufian" height="30" width="35" /></a>
+<a href="https://linkedin.com/in/soufian-sedati-546105196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soufian-sedati" height="30" width="35" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
