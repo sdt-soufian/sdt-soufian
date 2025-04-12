@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SEDATI Soufian</h1>
+<h1 align="center">SEDATI Soufian</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sdt-soufian&label=Profile%20views&color=0e75b6&style=flat" alt="sdt-soufian" /> </p>
 
 
