@@ -5,13 +5,12 @@
 I'm a Full Stack developer transforming business challenges into elegant digital solutions. From initial concept to final deployment, I collaborate closely with clients to build high-performance applications that drive real results. My curiosity powers continuous learning across emerging technologies. I don't just write code—I deliver solutions that convert.
 
    <!-- Social icons section -->
-<p align="left">
  [![website](./images/linkedin-50.png)](https://www.linkedin.com/in/soufian-sedati-546105196/)
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  &nbsp;&nbsp;
   [![website](./images/twitter-50.png)](https://x.com/sdtsoufian)
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    [![website](./images/facebook-50.png)](https://web.facebook.com/s.sof.5/)
-</p>
+   &nbsp;&nbsp;
+  [![website](./images/facebook-50.png)](https://web.facebook.com/s.sof.5/)
+
 
 
 ---
