@@ -15,6 +15,23 @@ I'm a Full Stack developer transforming business challenges into elegant digital
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
+   <!-- Social icons section -->
+<p align="left">
+  <a href="https://www.linkedin.com/in/soufian-sedati-546105196/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://x.com/sdtsoufian"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" />
+          </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://web.facebook.com/s.sof.5/" alt="Facebook" title="Facebook">
+            <img width="32px" alt="Facebook" title="Facebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" />
+          </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+</p>
+
+
 ---
 
 ### 🧰 Languages and Tools
