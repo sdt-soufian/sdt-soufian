@@ -6,12 +6,11 @@ I'm a Full Stack developer transforming business challenges into elegant digital
 
    <!-- Social icons section -->
 <p align="left">
-  <a href="https://www.linkedin.com/in/soufian-sedati-546105196/"><img width="32px" alt="LinkedIn" title="LinkedIn" style="stroke:red;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
+ [![website](./images/linkedin-50.png)](https://www.linkedin.com/in/soufian-sedati-546105196/)
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/sdtsoufian"><img width="32px" alt="Twitter" title="Twitter" style="color:white;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" /></a>
+  [![website](./images/twitter-50.png)](https://x.com/sdtsoufian)
     &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://web.facebook.com/s.sof.5/" alt="Facebook" title="Facebook">
-      <img width="32px" alt="Facebook" title="Facebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" /></a>
+    [![website](./images/facebook-50.png)](https://web.facebook.com/s.sof.5/)
 </p>
 
 
