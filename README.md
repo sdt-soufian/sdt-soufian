@@ -4,18 +4,18 @@
 
 I'm a Full Stack developer transforming business challenges into elegant digital solutions. From initial concept to final deployment, I collaborate closely with clients to build high-performance applications that drive real results. My curiosity powers continuous learning across emerging technologies. I don't just write code—I deliver solutions that convert.
 
-   <!-- Social icons section -->
- <!-- Social icons section -->
- <p align="center">
-  <a href="https://www.linkedin.com/in/soufian-sedati-546105196/">
-    <img src="./images/linkedin-50.png" alt="LinkedIn" width="32px" style="padding-right=20px;" /></a>
-<a href="https://x.com/sdtsoufian">
-  <img src="./images/twitter-50.png" alt="Twitter" width="32px" style="padding-right=20px;"/></a>
-
-<a href="https://web.facebook.com/s.sof.5/">
-  <img src="./images/facebook-50.png" alt="Facebook" width="32px" style="padding-right=20px;"/></a>
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://truecodinghub.com/"><img width="32px" alt="website" title="website" src="./images/website_logo.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/soufian-sedati-546105196/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="./images/linkedin-50.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://x.com/sdtsoufian"><img width="32px" alt="Twitter" title="Twitter" src="./images/twitter-50.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://web.facebook.com/s.sof.5/" alt="Facebook" title="Facebook Server"><img width="32px" src="./images/facebook-50.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-
+ 
 ---
 
 ### 🖥️ Programming Languages
